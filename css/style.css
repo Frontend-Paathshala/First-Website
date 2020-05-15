@@ -1,0 +1,115 @@
+.top-navbar {
+    background: #2D2D2D;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.align-left {
+    float: left;
+}
+
+.align-right {
+    float: right;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.logo-img {
+    width: 160px;
+    padding-left: 30px;
+}
+
+.navbar {
+    padding-right: 30px;
+}
+
+.navbar li {
+    display: inline-block;
+    color: #fff;
+    margin-left: 20px
+}
+
+.navbar li:hover {
+    border-bottom: 1px solid #fff;
+}
+
+.hero-banner {
+    background: url('../images/banner.png');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    height: 250px;
+}
+
+.hero-banner h2 {
+    color: #fff;
+    margin-top: 80px;
+}
+
+.btn-learn-more {
+    padding: 10px 30px;
+    background: #2D2D2D;
+    border-radius: 50px;
+    border: 0;
+    color: #fff;
+}
+
+.web-development {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.web-development h2 {
+    text-align: center;
+}
+
+.web-para {
+    padding: 0 380px;
+}
+
+.web-col-4 {
+    width: 25%;
+    float: left;
+    padding: 0 35px;
+}
+
+.get-started {
+    background: url('../images/lady-banner.png');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    overflow: hidden;
+}
+
+.get-started h2 {
+    width: 30%;
+    text-transform: uppercase;
+    padding-left: 295px;
+    padding-top: 50px;
+    color: #302B71;
+}
+
+.purple {
+    background: #302B71;
+    margin-left: 415px;
+}
+
+footer {
+    background: #2D2D2D;
+}
+
+footer p {
+    margin-top: -20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 65px;
+    color: #fff;
+    text-transform: uppercase;
+}
